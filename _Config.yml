@@ -1,0 +1,23 @@
+title: CarGo Manchester – Sales Performance
+description: > 
+  Designed and queried a relational sales database using SQL Server.
+  Implemented joins, CTEs, window functions, and time-based aggregations
+  to analyse revenue trends, top-performing products, and customer behaviour.
+
+theme: just-the-docs
+
+logo: Dashboard_Screenshot.jpeg
+
+search_enabled: true
+
+toc_enabled: true
+toc:
+  heading_levels: 2..3
+
+color_scheme: light
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/ojoepitah/sql-sales-analysis"
+
+footer_content: "© 2026 Peter A. Ojo"
